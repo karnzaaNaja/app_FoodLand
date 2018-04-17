@@ -3,7 +3,7 @@ package com.example.msi_gl62.karn
 import android.os.Bundle
 import android.support.design.widget.BottomNavigationView
 import android.support.v7.app.AppCompatActivity
-import com.example.msi_gl62.myapplication.ui.home.HomeFragment
+import com.example.msi_gl62.karn.ui.home.HomeFragment
 import kotlinx.android.synthetic.main.activity_main2.*
 
 class Main2Activity : AppCompatActivity() {
